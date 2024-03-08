@@ -1,0 +1,9 @@
+.box{
+    padding: 30px 60px;
+}
+.box-part{
+background-color: gainsboro;
+text-align: center;
+margin: 20px 20px 20px 20px;
+padding:10px;
+}
